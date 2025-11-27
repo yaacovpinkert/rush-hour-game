@@ -16,7 +16,7 @@ This will load the car configuration from the JSON file and start the console-ba
 
 ## Example
 
-<img src="media/console_example.png" alt="example" width="30%">
+<img src="media/console_example.png" alt="example" width="50%">
 
 ## Requirements
 - Python 3.12+
