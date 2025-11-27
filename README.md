@@ -1,8 +1,8 @@
-# Rush Hour Game
-
-A Python project implementing the Rush Hour puzzle game for Intro2CS Exercise 9 at The Hebrew University of Jerusalem.
-The main idea behind this exercise is to get familiar with **Object-Oriented Programming**.
-
+# <div style="text-align:center"> Rush Hour Game</div>
+<div style="text-align:center">
+A Python project implementing the Rush Hour game for Intro2CS Exercise 9 at The Hebrew University of Jerusalem.<br>
+The main idea behind this exercise is to get familiar with <strong>Object-Oriented Programming</strong>.
+</div>
 
 ## Usage
 
